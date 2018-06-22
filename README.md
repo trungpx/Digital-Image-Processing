@@ -4,8 +4,7 @@
 This module show the practices of image processing by manually coding the matlab functions for each algorithm [Image processing](https://github.com/trungpx/Digital-Image-Processing/)
 ## Convolution image
 * For kernel H_1
-
-![Convolution image using a kernel](https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/Convolution-K1.png)
+<img src="https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/Convolution-K1.png" width="256" height="256" title="Img-conv-kernel-1">
 
 * For kernel H_2
-<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" height="256" title="Github Logo">
+
