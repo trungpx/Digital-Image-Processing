@@ -14,3 +14,6 @@ This module show the practices of image processing by manually coding the matlab
 | Original image  | Image channel extracted |
 | ------------- | ------------- |
 |<img src="https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/rgb.png" width="300" height="275" title="Img--1">|<img src="https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/r-g-b-h-s-i-ycb-cr.png" width="300" height="275" title="Img-2">|
+
+* FFT2D, DCT, DHT, Wavelet transform with no built-in function
+
