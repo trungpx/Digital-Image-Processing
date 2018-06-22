@@ -6,3 +6,5 @@ This module show the practices of image processing by manually coding the matlab
 * For kernel H_1
 
 ![Convolution image using a kernel](https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/Convolution-K1.png)
+
+* For kernel $H_2$
