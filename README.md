@@ -15,10 +15,3 @@ This module show the practices of image processing by manually coding the matlab
   <img src="https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/Convolution-K2.png" width="250" height="225">
 </p>
 
-<center>
-    <table>
-        <tr>
-            <td>Foo1</td> <td>Foo2</td>
-        </tr>
-    </table>
-</center>
