@@ -5,6 +5,6 @@ This module show the practices of image processing by manually coding the matlab
 ## Convolution image
 * For kernel H_1
 
-![Convolution image using a kernel](https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/Convolution-K1.png)<!-- .element height="50%" width="50%" -->
+![Convolution image using a kernel](https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/Convolution-K1.png) { width=50% }
 
 * For kernel H_2
