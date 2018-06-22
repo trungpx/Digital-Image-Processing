@@ -22,3 +22,10 @@ This module show the practices of image processing by manually coding the matlab
 |  ---         |      ---       |        --- |
 | <img src="https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/img-11.png" width="265" height="235" title="Img--1"> | <img src="https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/img-12.png" width="265" height="235" title="Img-2"> | <img src="https://github.com/trungpx/Digital-Image-Processing/blob/master/Result%20images/img-13.png" width="265" height="235" title="Img-3"> |
 
+* Image enhancement with histogram equalization
+
+
+
+* Median, Mean filtering
+
+
