@@ -1,5 +1,6 @@
 # Digital-Image-Processing
 **Implement the algorithms, transforms for image, image- restoration, enhancement without any built-in function matlab...**
+** Thanks for the various material in the internet and the kind sharing from the science community, I can apply successfully for my ơn problems in image processing.
 
 This module show the practices of image processing by manually coding the matlab functions for each algorithm [Image processing](https://github.com/trungpx/Digital-Image-Processing/)
 ## Convolution image with no built-in function
